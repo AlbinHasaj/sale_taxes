@@ -1,0 +1,109 @@
+[
+  [
+    {
+      "total": 29.83,
+      "sales_tax": 1.5
+    },
+    [
+      {
+        "name": "chocolate bar",
+        "price": 0.85,
+        "tax_applicable": false,
+        "imported": false
+      },
+      {
+        "name": "music CD",
+        "price": 14.99,
+        "tax_applicable": true,
+        "imported": false
+      },
+      {
+        "name": "book",
+        "price": 12.49,
+        "tax_applicable": false,
+        "imported": false
+      }
+    ]
+  ],
+  [
+    {
+      "total": 65.15,
+      "sales_tax": 7.65
+    },
+    [
+      {
+        "name": "bottle of perfume",
+        "price": 47.5,
+        "tax_applicable": true,
+        "imported": true
+      },
+      {
+        "name": "box of chocolates",
+        "price": 10.00,
+        "tax_applicable": false,
+        "imported": true
+      }
+    ]
+  ],
+  [
+    {
+      "total": 74.68,
+      "sales_tax": 6.7
+    },
+    [
+      {
+        "name": "box of chocolates",
+        "price": 11.25,
+        "tax_applicable": false,
+        "imported": true
+      },
+      {
+        "name": "packet of headache pills",
+        "price": 9.75,
+        "tax_applicable": false,
+        "imported": false
+      },
+      {
+        "name": "bottle of perfume",
+        "price": 18.99,
+        "tax_applicable": true,
+        "imported": false
+      },
+      {
+        "name": "bottle of perfume",
+        "price": 27.99,
+        "tax_applicable": true,
+        "imported": true
+      }
+    ]
+  ],
+  [
+    {
+      "total": 2639.4,
+      "sales_tax": 343.80
+    },
+    [
+      {
+        "name": "snickers",
+        "price": 1.99,
+        "tax_applicable": false,
+        "imported": true,
+        "quantity": 3
+      },
+      {
+        "name": "iphone 12",
+        "price": 769.84,
+        "tax_applicable": true,
+        "imported": true,
+        "quantity": 2
+      },
+      {
+        "name": "perfume",
+        "price": 149.99,
+        "tax_applicable": true,
+        "imported": true,
+        "quantity": 5
+      }
+    ]
+  ]
+]
